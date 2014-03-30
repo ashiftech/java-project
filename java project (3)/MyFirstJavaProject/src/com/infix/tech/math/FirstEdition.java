@@ -1,0 +1,16 @@
+package com.infix.tech.math;
+
+public class FirstEdition {
+int firNum;
+firstNum=10;
+int secNum;
+secNum=20
+int result;
+result=firstNum+secNum;
+system.out.printin(result);
+public
+
+
+
+
+}    
